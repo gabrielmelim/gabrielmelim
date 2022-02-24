@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá Eu Sou o Gabriel Melim !
 
-<!--
-**gabrielmelim/gabrielmelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje Trabalho Como Desenvolvedor FullStack
+- 🌱 Estudando Novas Tecnologias
+- 😄 Pronomes: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmelim&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelim&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
