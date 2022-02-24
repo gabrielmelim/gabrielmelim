@@ -2,6 +2,7 @@
 
 
 - 🔭 Hoje Trabalho Como Desenvolvedor FullStack
+- 👨🏻‍🎓 Formado em Ciência da Computação 
 - 🌱 Estudando Novas Tecnologias
 - 😄 Pronomes: ele/dele
 
