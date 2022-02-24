@@ -12,7 +12,7 @@
 </div>
   
   ##
-  
+<div>
 <img align="center" alt="PhP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="center" alt="Java" height=60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
 <img align="center" alt="Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -26,8 +26,10 @@
 <img align="center" alt="GitHub" height="60" width="60" src="https://img.icons8.com/nolan/64/github.png" /> 
 <img align="center" alt="InteliJ" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 <img align="center" alt="Img" height="100" width="100" src="https://www.imagemhost.com.br/images/2022/02/24/gabriel.png" alt="gabriel.png" border="0" /> 
-  
-  ##
-  
-  
-
+</div>
+ 
+##
+   
+ <div> 
+                                                                                                                                                   
+</div> 
