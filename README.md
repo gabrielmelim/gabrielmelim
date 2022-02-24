@@ -23,9 +23,8 @@
 <img align="center" alt="Html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
-                                                                                                                                        
-
-<img align="center" alt="InteliJ" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="center" alt="GitHub" height="60" width="60" src="https://img.icons8.com/nolan/64/github.png" /> 
+<img align="center" alt="InteliJ" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 <img align="center" alt="Img" height="100" width="100" src="https://www.imagemhost.com.br/images/2022/02/24/gabriel.png" alt="gabriel.png" border="0" /> 
   
   ##
