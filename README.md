@@ -27,7 +27,7 @@
 <img align="center" alt="GitHub" height="50" width="50" src="https://img.icons8.com/nolan/64/github.png" /> 
 <img align="center" alt="InteliJ" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="middle" alt="Img" height="100" width="100" src="https://i.picasion.com/pic92/6683e728d4392d8e43e16f93af651ae5.gif" " /> 
+<img align="middle" alt="Img" height="100" width="100" src="https://i.picasion.com/pic92/6683e728d4392d8e43e16f93af651ae5.gif" /> 
 </div>
  
 ##
@@ -39,3 +39,13 @@
 ##
 
 ![Snake animation](https://github.com/gabrielmelim/gabrielmelim/blob/output/github-contribution-grid-snake.svg)
+
+##
+<div>
+<img align="right" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
+<img align="left" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" /> 
+<img align="middle" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/8ecedcba3d3c9f7b7a2e238cec05cdb3.gif" />
+<img align="middle" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/edd355d0989f65b1736e0eafdb7a754a.gif" />
+</div>
+ 
+                                    
