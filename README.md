@@ -52,7 +52,7 @@
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/f7cc289dccf70e000e2fcbcf3db1d494.gif" />
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/8e8cd07ea96d4ddf605d82c2d67fe133.gif" />
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/31e51c0d03204352ce3d8d42e9b7504d.gif" />
-<img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
+<img align="right" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
   
  
 </div>
