@@ -39,12 +39,3 @@
 ##
 
 ![Snake animation](https://github.com/gabrielmelim/gabrielmelim/blob/output/github-contribution-grid-snake.svg)
-
-## 
-
-<img align="right" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
-<img align="left" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />  
-<img align="right" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/867a07e936230dba89175897dd087642.gif" />   
-                                                                                                                                
-                                                                                                                                
-                              
