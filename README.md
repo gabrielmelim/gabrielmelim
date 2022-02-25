@@ -41,8 +41,8 @@
 ![Snake animation](https://github.com/gabrielmelim/gabrielmelim/blob/output/github-contribution-grid-snake.svg)
 
 ##
+  
 <div>
-
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
   <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/bfafb14374b4846518bf489372fd2d4b.gif" />
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/d0f4372053f543db780663d7920c5c51.gif" />
@@ -52,9 +52,7 @@
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/f7cc289dccf70e000e2fcbcf3db1d494.gif" />
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/8e8cd07ea96d4ddf605d82c2d67fe133.gif" />
 <img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/31e51c0d03204352ce3d8d42e9b7504d.gif" />
-<img align="right" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
-  
- 
+<img align="middle" alt="img" height="70" width="70" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
 </div>
  
                                     
