@@ -12,6 +12,8 @@
   <a href="https://github.com/gabrielmelim">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielmelim&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelim&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GabrielMelim/count.svg" /></p>
 </div>
  
   
@@ -57,5 +59,7 @@
 <img align="middle" alt="img" height="77" width="77" src="https://i.picasion.com/pic92/31e51c0d03204352ce3d8d42e9b7504d.gif" />
 <img align="middle" alt="img" height="80" width="80" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
 </div>
+  
+ 
  
                                     
