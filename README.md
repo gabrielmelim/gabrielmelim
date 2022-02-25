@@ -1,4 +1,4 @@
-### Olá Eu Sou o Gabriel Melim !
+# Olá Eu Sou o Gabriel Melim !
 
 
 - 🔭 Hoje Trabalho Como Desenvolvedor FullStack
@@ -6,13 +6,16 @@
 - 🌱 Estudando Novas Tecnologias
 - 😄 Pronomes: ele/dele
 
+##
+# Estatística
 <div align="center">
   <a href="https://github.com/gabrielmelim">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielmelim&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelim&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+ 
   
-  ##
+# Habilidades
 <div>
 <img align="center" alt="PhP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
