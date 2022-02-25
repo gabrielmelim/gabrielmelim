@@ -44,8 +44,11 @@
 <div>
 <img align="right" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" />
 <img align="left" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/32944df19d16d51f01322a8526565106.gif" /> 
-<img align="middle" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/8ecedcba3d3c9f7b7a2e238cec05cdb3.gif" />
-<img align="middle" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/edd355d0989f65b1736e0eafdb7a754a.gif" />
+<img align="left" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/8ecedcba3d3c9f7b7a2e238cec05cdb3.gif" />
+<img align="right" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/edd355d0989f65b1736e0eafdb7a754a.gif" />
+<img align="left" alt="GitHub" height="100" width="100" src="https://i.picasion.com/pic92/37d9d1a421d6d279717c870ee3163bdd.gif" />
+  
+ 
 </div>
  
                                     
