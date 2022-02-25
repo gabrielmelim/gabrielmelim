@@ -31,14 +31,14 @@
 <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
 <img align="center" alt="GitHub" height="50" width="50" src="https://img.icons8.com/nolan/64/github.png" /> 
 <img align="center" alt="InteliJ" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-<img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="middle" alt="Img" height="100" width="100" src="https://i.picasion.com/pic92/6683e728d4392d8e43e16f93af651ae5.gif" /> 
+<img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> 
 </div>
  
 # Contatos
                                                                                                                                                      
 <div> 
-<a href="https://www.linkedin.com/in/gabrielmelim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                                                                 
+<img align="middle" alt="Img" height="100" width="100" src="https://i.picasion.com/pic92/6683e728d4392d8e43e16f93af651ae5.gif" />
+<a href="https://www.linkedin.com/in/gabrielmelim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 
 ##
