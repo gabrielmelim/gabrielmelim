@@ -33,7 +33,7 @@
 <img align="middle" alt="Img" height="100" width="100" src="https://i.picasion.com/pic92/6683e728d4392d8e43e16f93af651ae5.gif" /> 
 </div>
  
-##
+# Contatos
                                                                                                                                                      
 <div> 
 <a href="https://www.linkedin.com/in/gabrielmelim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                                                                 
