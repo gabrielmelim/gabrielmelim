@@ -2,34 +2,26 @@ name: Update Commit Snake
 
 on:
   schedule:
-    # executa a cada 12h
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
   snake:
     runs-on: ubuntu-latest
-
     steps:
-      # 1) pega seu código
-      - name: Checkout repository
+      - name: Checkout main
         uses: actions/checkout@v3
         with:
-          persist-credentials: true
           fetch-depth: 0
 
-      # 2) gera o SVG do snake
       - name: Generate commit-snake SVG
         uses: Platane/snk@master
-        id: snk
         with:
           github_user_name: 'gabrielmelim'
           svg_out_path: 'snake/github-contribution-grid-snake.svg'
-          # opcional: tema dark
           theme: 'dark'
 
-      # 3) commita o resultado de volta na main
-      - name: Commit and push updated snake
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
