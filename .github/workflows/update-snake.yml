@@ -1,32 +1,33 @@
+# .github/workflows/update-snake.yml
 name: Update Commit Snake
 
 on:
   schedule:
-    # executa a cada 12 horas
+    # executa a cada 12h
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
   snake:
     runs-on: ubuntu-latest
-
     steps:
-      # 1) Faz checkout da branch main
+      # 1) Checkout da main
       - name: Checkout main
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2) Gera o SVG do commit‑snake via platane/snk-action
+      # 2) Gera só o SVG do snake
       - name: Generate Commit Snake SVG
-        uses: platane/snk-action@v1
+        uses: Platane/snk/svg-only@v3
         with:
+          # seu usuário no GitHub
           github_user_name: 'gabrielmelim'
-          svg_out_path: 'snake/github-contribution-grid-snake.svg'
-          # passa flags extras como --theme
-          args: '--theme dark'
+          # onde salvar e qual tema usar
+          outputs: |
+            snake/github-contribution-grid-snake.svg?palette=github-dark
 
-      # 3) Commit & Push do SVG gerado
+      # 3) Commit & Push do SVG
       - name: Commit & Push updated snake
         run: |
           git config user.name "github-actions[bot]"
