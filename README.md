@@ -61,6 +61,4 @@ Engenheiro de Software Java 👨‍💻
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmelim&show_icons=true&theme=dark)](https://github.com/gabrielmelim)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelim&layout=compact&theme=dark)](https://github.com/gabrielmelim)
 
-![Contribuições](https://ghchart.rshah.org/gabrielmelim)
-
 ![Commit Snake](./snake/github-contribution-grid-snake.svg)
